@@ -82,10 +82,10 @@ https://gitee.com/freshday/radar
 ```
 
 ## 架构图（参考）
-![img_1.png](架构图.png)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/54728608-0ffe-4d45-8e74-afb38c920fbb)
 
 ## 对账流程
-![img.png](对账流程.png)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/35e6f771-02bb-4fd6-8a7b-acb0dcccd500)
 
 ## 模块功能说明
 1.  **用户管理** ：用户是系统操作者，该功能主要完成系统用户配置。对各个基本的用户增删改查，导出excel表格，批量删除。
