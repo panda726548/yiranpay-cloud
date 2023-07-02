@@ -127,11 +127,42 @@ https://gitee.com/freshday/radar
 -插件化的设计，快速接入其它数据能力平台
 -NoSQL，易扩展，高性能
 -配置简单，开箱即用
+
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/46aff59b-2274-474d-9e78-afd1ed5bf600)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/07f69637-a01a-499b-96c7-c2241bd46468)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/bbc03fae-a00f-4aeb-a3ee-e1af0fae56ea)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/7e4ec4e0-f26b-470a-863a-a25a3bae7670)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/fe0eefe5-0809-434b-ae7a-908ac84d41ab)
 
-    
+## 运营后台演示图
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/6196b7df-ed4a-477f-be16-f96c6d1bce15)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/d9cb3093-5bd7-445a-bbc0-e0cdaadce6c4)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/2eb50c37-df6d-416f-b437-657eedd85b0e)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/135b8360-6e2a-4f1c-a91d-51517d3b3ae8)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/79db3fab-5be5-4027-bbff-e6405799e401)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/8aa61a13-3e2f-4609-868b-73c481fa164d)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/30dc4783-c7fe-4ebe-a5b5-574eaf666d94)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/dd21352d-605c-4b35-8625-6117b8d28f5c)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/9a264162-bb31-4ae0-8a7e-02e3fd165d77)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/8b0bc3c1-f7b5-472b-b07a-3c86cb34a7a6)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/a0d52f32-0530-4d25-882c-089bc071d475)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/cce0b0d0-3173-466c-a627-9e2d776ee0d9)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/f2a458b1-15e3-44f9-971b-232306bb814f)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/6a07f9a7-b074-40a2-8c85-00b4964327ee)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/be2b0fa4-a665-4579-889c-3727628cda23)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/5f70576f-7aa7-4c15-bcac-6fbb60abe254)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/8a5d559e-2681-44a9-9526-9f2fd8a1b510)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/cb75d970-1f27-4828-a515-4165be552456)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/5d41e8c3-1774-4516-bd3c-1f2760360de8)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/66f843a2-0d54-4a33-be96-d4b6819b151f)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/6670174b-e689-4bbc-b831-37e7b2c35972)
+
+
+
+
+
+
+
+
+
 
