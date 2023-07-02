@@ -127,12 +127,11 @@ https://gitee.com/freshday/radar
 -插件化的设计，快速接入其它数据能力平台
 -NoSQL，易扩展，高性能
 -配置简单，开箱即用
-
-    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/46aff59b-2274-474d-9e78-afd1ed5bf600)
-    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/07f69637-a01a-499b-96c7-c2241bd46468)
-    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/bbc03fae-a00f-4aeb-a3ee-e1af0fae56ea)
-    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/7e4ec4e0-f26b-470a-863a-a25a3bae7670)
-    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/fe0eefe5-0809-434b-ae7a-908ac84d41ab)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/46aff59b-2274-474d-9e78-afd1ed5bf600)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/07f69637-a01a-499b-96c7-c2241bd46468)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/bbc03fae-a00f-4aeb-a3ee-e1af0fae56ea)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/7e4ec4e0-f26b-470a-863a-a25a3bae7670)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/fe0eefe5-0809-434b-ae7a-908ac84d41ab)
 
     
 
