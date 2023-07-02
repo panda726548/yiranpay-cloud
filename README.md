@@ -169,6 +169,31 @@ https://gitee.com/freshday/radar
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/b81e6092-adfe-43b2-b2ab-c45ed5c545aa)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/ddab8c87-cb28-4af3-a449-d109a68a9a9d)
 
+## 本地DevOps研发效能平台（K8S集成平台）
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/cac45048-4599-4310-90ff-2a4bdd154762)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/6c440031-2c42-4d37-89b2-0dad109da4ab)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/1c220c39-4297-46a9-908b-3b820ff8da90)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/45d2e324-5810-4350-8e74-3b7ffc5eb01e)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/0f366c2e-41db-4f54-ae0b-7f2f4c172be5)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/d69c1489-c91b-4bae-9761-d2e2f900c2ba)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/4f3af747-9a36-4750-ac51-68382ff4147d)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/b7f6124e-079b-4175-8f83-d1224cafa75a)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/6cd976dd-471a-4c8d-ac10-5b3a9dfc0dc0)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/695bbffd-9750-4a9d-b503-6cb7debe8f7e)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/7c188519-8598-4a44-99fa-86aab55a34ff)
+![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/f232b118-f508-4d2e-8273-353946e53f8a)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
