@@ -118,3 +118,21 @@ https://gitee.com/freshday/radar
 1.  **会员管理**: 会员管理分为内部客户与外部客户两种，内部客户是指集团内部的公司或个人，外部客户则是使用平台服务且与集团无关的外部公司或者个人。
     内部客户：集团内部的公司或个人。以阿里巴巴集团为例，不同业务线包含众多子公司，根据集团战略需要统一接入支付宝，这种情况下内部公司的接入在支付宝系统时一般会定义为内部客户，此类客户和外部客户之间会有一定的差异化服务，在一些风险、服务以及产品层面均会作出一定的调整；
     外部客户：使用平台服务且与集团无关的外部公司或者个人。以支付宝举例，喜马拉雅接入了支付宝，对于支付宝来说即外部客户，因为接入了支付宝所以可以使用支付宝的部分功能。
+
+## 集成风控引擎（Radar）实现支付风控管理
+-实时风控，特殊场景可以做到100ms内响应
+-可视化规则编辑器，丰富的运算符、计算规则灵活
+-支持中文，易用性更强
+-自定义规则引擎，更加灵活，支持复杂多变的场景
+-插件化的设计，快速接入其它数据能力平台
+-NoSQL，易扩展，高性能
+-配置简单，开箱即用
+
+    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/46aff59b-2274-474d-9e78-afd1ed5bf600)
+    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/07f69637-a01a-499b-96c7-c2241bd46468)
+    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/bbc03fae-a00f-4aeb-a3ee-e1af0fae56ea)
+    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/7e4ec4e0-f26b-470a-863a-a25a3bae7670)
+    ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/fe0eefe5-0809-434b-ae7a-908ac84d41ab)
+
+    
+
