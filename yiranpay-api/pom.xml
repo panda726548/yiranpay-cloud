@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yiranpay</groupId>
+        <artifactId>yiranpay</artifactId>
+        <version>3.6.2</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>yiranpay-api-system</module>
+        <module>yiranpay-api-outside</module>
+    </modules>
+
+    <artifactId>yiranpay-api</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        yiranpay-api系统接口
+    </description>
+
+</project>
