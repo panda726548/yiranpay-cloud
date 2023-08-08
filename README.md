@@ -135,10 +135,7 @@ https://gitee.com/freshday/radar
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/fe0eefe5-0809-434b-ae7a-908ac84d41ab)
 
 ## 运营后台演示图
-![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/6196b7df-ed4a-477f-be16-f96c6d1bce15)
-![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/d9cb3093-5bd7-445a-bbc0-e0cdaadce6c4)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/2eb50c37-df6d-416f-b437-657eedd85b0e)
-![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/135b8360-6e2a-4f1c-a91d-51517d3b3ae8)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/79db3fab-5be5-4027-bbff-e6405799e401)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/8aa61a13-3e2f-4609-868b-73c481fa164d)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/30dc4783-c7fe-4ebe-a5b5-574eaf666d94)
