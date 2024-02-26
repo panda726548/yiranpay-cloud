@@ -87,7 +87,8 @@ https://gitee.com/freshday/radar
 
 ## 对账流程
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/35e6f771-02bb-4fd6-8a7b-acb0dcccd500)
-
+## 著作证
+<img width="407" alt="计算机软件著作权证书" src="https://github.com/panda726548/yiranpay-cloud/assets/52069417/a3212546-9ad2-45d5-bba4-15956e558bfa">
 ## 模块功能说明
 1.  **用户管理** ：用户是系统操作者，该功能主要完成系统用户配置。对各个基本的用户增删改查，导出excel表格，批量删除。
 1.  **角色管理** ：角色菜单权限分配、设置角色按机构进行分配菜单权限和增删改查权限。
@@ -128,7 +129,7 @@ https://gitee.com/freshday/radar
 -NoSQL，易扩展，高性能
 -配置简单，开箱即用
 
-<img width="407" alt="计算机软件著作权证书" src="https://github.com/panda726548/yiranpay-cloud/assets/52069417/a3212546-9ad2-45d5-bba4-15956e558bfa">
+
 
 
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/46aff59b-2274-474d-9e78-afd1ed5bf600)
