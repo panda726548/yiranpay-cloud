@@ -128,6 +128,9 @@ https://gitee.com/freshday/radar
 -NoSQL，易扩展，高性能
 -配置简单，开箱即用
 
+<img width="407" alt="计算机软件著作权证书" src="https://github.com/panda726548/yiranpay-cloud/assets/52069417/a3212546-9ad2-45d5-bba4-15956e558bfa">
+
+
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/46aff59b-2274-474d-9e78-afd1ed5bf600)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/07f69637-a01a-499b-96c7-c2241bd46468)
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/bbc03fae-a00f-4aeb-a3ee-e1af0fae56ea)
