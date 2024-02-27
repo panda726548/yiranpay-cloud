@@ -70,6 +70,7 @@ yiranpay
 │       └── yiranpay-payorder                            // 订单模块
 │       └── yiranpay-product                             // 产品模块
 │       └── yiranpay-reconciliation                      // 对账模块
+│       └── yiranpay-settlement                          // 结算模块  
 │       └── pom.xml                                  // 服务模块继承此pom
 ├── yiranpay-api                                     // 接口模块
 │       └── yiranpay-aoi-outside                       // 支付接口
@@ -89,6 +90,7 @@ https://gitee.com/freshday/radar
 ![image](https://github.com/panda726548/yiranpay-cloud/assets/52069417/35e6f771-02bb-4fd6-8a7b-acb0dcccd500)
 ## 著作证
 <img width="407" alt="计算机软件著作权证书" src="https://github.com/panda726548/yiranpay-cloud/assets/52069417/a3212546-9ad2-45d5-bba4-15956e558bfa">
+
 ## 模块功能说明
 1.  **用户管理** ：用户是系统操作者，该功能主要完成系统用户配置。对各个基本的用户增删改查，导出excel表格，批量删除。
 1.  **角色管理** ：角色菜单权限分配、设置角色按机构进行分配菜单权限和增删改查权限。
